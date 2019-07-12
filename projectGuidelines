@@ -1,0 +1,38 @@
+STAR WARS GAME SHOW CASTINGS
+
+Suppose we’re working along with George Lucas’ team to select who will take part in each of the
+shows of a new TV show called “Star Wars Game Show”.
+
+Among other things, the system must allow casting managers to register prospective contestants
+including their first name, last name, date of birth, mobile phone, country of residence, email and the
+Star Wars character they will portray in the show. Managers should also be able to both modify the
+contestants information and delete any of the contestants information. Please, bear in mind that all
+the contestants should be at least 18 years old and reside in Spain.
+The Star Wars characters to be assigned to the contestants upon creation can be loaded using SWAPI
+(The Star Wars API - https://swapi.co ). Only the character name is required for this particular
+assignment.
+
+What we need is actually a website that casting managers can use as a database of all the
+prospective contestant.
+
+
+HOW TO SEND YOUR ASSIGNMENT
+Once you’ve finished you can send over your assignment through an email containing the following:
+- Link to a public Git repository in which you’ve uploaded your code.
+- A short explanation of what you’ve done, which technologies you have used to implement
+your solution and a guide on how to build your code (setup required for us to run it locally).
+
+
+BONUS - Not required but nice-to-have features for you to earn some extra points
+- Deploy your web app in Heroku and send the link.
+- Responsive design - Usable on mobile phone explorers (Safari, Chrome)
+- Sort contestants alphabetically by their last name.
+- Upload a photo as part of the contestant creation.
+- Develop a sign up/sign in process for casting managers.
+
+NOTES
+- Use any technologies and tools you find convenient for the purposes of this assignment.
+- Graphic design, colours and images are NOT a must.
+- Make sure to cover the main functionalities of the website before attempting the bonus.
+- Feel free to drop a line and ask us any questions or doubts you may have.
+Send any emails addressed to both rlunar@eurostar.es and aheredia@eurostar.es
