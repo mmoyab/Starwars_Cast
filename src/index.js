@@ -17,7 +17,7 @@ app.use(express.json());
 
 
 // Routes
-app.use('/api/task' ,require('./routes/task.routes'));
+app.use('/api/cast_members' ,require('./routes/cast.routes'));
 
 
 // Static Files
